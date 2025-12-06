@@ -18,14 +18,3 @@ This repo tracks the **content, notes, and release history** for my live portfol
 2. Commit with a clear message (e.g., `feat: add charts section to SpaceX case study`).
 3. Publish in Framer.
 4. Add an entry in the changelog.
-
-## Repo structure
-├─ README.md
-├─ CHANGELOG.md
-├─ docs/ # optional GitHub Pages site
-│ └─ index.md
-├─ projects/ # case studies as Markdown
-│ ├─ spacex-case-study.md
-│ └─ sales-dashboard.md
-└─ cms/
-└─ posts.csv # optional: import into Framer CMS
